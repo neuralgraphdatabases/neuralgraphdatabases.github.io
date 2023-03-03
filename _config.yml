@@ -40,13 +40,15 @@ people:
   position: Assistant Professor <br> <b> VU Amsterdam </b> </p>
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/michaelcochez
     - title: globe
-      url: #
+      url: https://www.cochez.nl
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/michaelcochez/
     - title: scholar
-      url: #
+      url: https://scholar.google.com/citations?user=JuZrOtoAAAAJ&hl=en
+    - title: github
+      url: https://github.com/miselico
 
 - name: Zhaocheng Zhu
   pic: zz
