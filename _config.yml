@@ -1,0 +1,97 @@
+url: https://neuralgraphdatabases.github.io
+baseurl: /
+
+# Site settings
+title: Neural Graph Databases
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: Mikhail Galkin
+  pic: mg
+  position: Research Scientist <br> <b> Intel AI Labs </b> </p>
+  social:
+    - title: twitter
+      url: https://twitter.com/michael_galkin
+    - title: globe
+      url: https://migalkin.github.io/
+    - title: linkedin
+      url: https://www.linkedin.com/in/michael-galkin-80b71294/
+    - title: scholar
+      url: https://scholar.google.com/citations?user=yfYRbG4AAAAJ&hl=en
+
+- name: Hongyu Ren
+  pic: hr
+  position: PhD Student <br> <b> Stanford University </b> </p>
+  social:
+    - title: twitter
+      url: #
+    - title: globe
+      url: #
+    - title: linkedin
+      url: #
+    - title: scholar
+      url: #
+
+- name: Michael Cochez
+  pic: mc
+  position: Assistant Professor <br> <b> VU Amsterdam </b> </p>
+  social:
+    - title: twitter
+      url: #
+    - title: globe
+      url: #
+    - title: linkedin
+      url: #
+    - title: scholar
+      url: #
+
+- name: Zhaocheng Zhu
+  pic: zz
+  position: PhD Student <br> <b> Mila, University of Montreal </b> </p>
+  social:
+    - title: twitter
+      url: #
+    - title: globe
+      url: #
+    - title: linkedin
+      url: #
+    - title: scholar
+      url: #
+
+- name: Jure Leskovec
+  pic: jl
+  position: Professor <br> <b> Stanford University </b> </p>
+  social:
+    - title: twitter
+      url: #
+    - title: globe
+      url: #
+    - title: linkedin
+      url: #
+    - title: scholar
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
