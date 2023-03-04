@@ -27,13 +27,13 @@ people:
   position: PhD Student <br> <b> Stanford University </b> </p>
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ren_hongyu
     - title: globe
-      url: #
+      url: http://hyren.me/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/hongyu-ren-566098155/
     - title: scholar
-      url: #
+      url: https://scholar.google.com/citations?user=cbuy0ocAAAAJ&hl=en
 
 - name: Michael Cochez
   pic: mc
@@ -55,26 +55,26 @@ people:
   position: PhD Student <br> <b> Mila, University of Montreal </b> </p>
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/zhu_zhaocheng
     - title: globe
-      url: #
+      url: https://kiddozhu.github.io/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/zhaocheng-zhu-24756213b/
     - title: scholar
-      url: #
+      url: https://scholar.google.com/citations?user=Qd8JumkAAAAJ
 
 - name: Jure Leskovec
   pic: jl
   position: Professor <br> <b> Stanford University </b> </p>
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/jure
     - title: globe
-      url: #
+      url: https://cs.stanford.edu/people/jure/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/leskovec/
     - title: scholar
-      url: #
+      url: https://scholar.google.com/citations?user=Q_kKkIUAAAAJ&hl=en
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
