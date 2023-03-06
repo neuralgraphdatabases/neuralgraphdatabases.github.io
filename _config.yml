@@ -9,22 +9,10 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Mikhail Galkin
-  pic: mg
-  position: Research Scientist <br> <b> Intel AI Labs </b> </p>
-  social:
-    - title: twitter
-      url: https://twitter.com/michael_galkin
-    - title: globe
-      url: https://migalkin.github.io/
-    - title: linkedin
-      url: https://www.linkedin.com/in/michael-galkin-80b71294/
-    - title: scholar
-      url: https://scholar.google.com/citations?user=yfYRbG4AAAAJ&hl=en
 
 - name: Hongyu Ren
   pic: hr
-  position: PhD Student <br> <b> Stanford University </b> </p>
+  position: PhD Student <br> <b> Stanford University </b> <br> *Equal Contribution
   social:
     - title: twitter
       url: https://twitter.com/ren_hongyu
@@ -35,9 +23,22 @@ people:
     - title: scholar
       url: https://scholar.google.com/citations?user=cbuy0ocAAAAJ&hl=en
 
+- name: Mikhail Galkin
+  pic: mg
+  position: Research Scientist <br> <b> Intel AI Labs </b> <br> *Equal Contribution
+  social:
+    - title: twitter
+      url: https://twitter.com/michael_galkin
+    - title: globe
+      url: https://migalkin.github.io/
+    - title: linkedin
+      url: https://www.linkedin.com/in/michael-galkin-80b71294/
+    - title: scholar
+      url: https://scholar.google.com/citations?user=yfYRbG4AAAAJ&hl=en
+
 - name: Michael Cochez
   pic: mc
-  position: Assistant Professor <br> <b> VU Amsterdam </b> </p>
+  position: Assistant Professor <br> <b> VU Amsterdam </b> 
   social:
     - title: twitter
       url: https://twitter.com/michaelcochez
@@ -52,7 +53,7 @@ people:
 
 - name: Zhaocheng Zhu
   pic: zz
-  position: PhD Student <br> <b> Mila, University of Montreal </b> </p>
+  position: PhD Student <br> <b> Mila, University of Montreal </b> 
   social:
     - title: twitter
       url: https://twitter.com/zhu_zhaocheng
@@ -65,7 +66,7 @@ people:
 
 - name: Jure Leskovec
   pic: jl
-  position: Professor <br> <b> Stanford University </b> </p>
+  position: Professor <br> <b> Stanford University </b> 
   social:
     - title: twitter
       url: https://twitter.com/jure
