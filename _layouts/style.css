@@ -35,3 +35,7 @@ object-fit: cover;
 .pad {
     padding-bottom: 6rem;
 }
+
+.team-member.social-buttons {
+    vertical-align: bottom;
+}

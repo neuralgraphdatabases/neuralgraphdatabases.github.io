@@ -38,7 +38,7 @@ people:
 
 - name: Michael Cochez
   pic: mc
-  position: Assistant Professor <br> <b> VU Amsterdam </b> <br> <p class="hidden"> pad </p>
+  position: Assistant Professor <br> <b> VU Amsterdam </b> <br>
   social:
     - title: twitter
       url: https://twitter.com/michaelcochez
@@ -53,7 +53,7 @@ people:
 
 - name: Zhaocheng Zhu
   pic: zz
-  position: PhD Student <br> <b> Mila, University of Montreal </b> <br> <p class="hidden"> pad </p>
+  position: PhD Student <br> <b> Mila, University of Montreal </b> <br>
   social:
     - title: twitter
       url: https://twitter.com/zhu_zhaocheng
