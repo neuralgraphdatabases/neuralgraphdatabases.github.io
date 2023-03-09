@@ -38,7 +38,7 @@ people:
 
 - name: Michael Cochez
   pic: mc
-  position: Assistant Professor <br> <b> VU Amsterdam </b> <br>
+  position: Assistant Professor <br> <b> VU Amsterdam </b> <br> &nbsp;
   social:
     - title: twitter
       url: https://twitter.com/michaelcochez
